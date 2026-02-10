@@ -13,13 +13,49 @@
     "p3": "This semester I want to show that with effort, organization, and a desire to learn, I can grow both academically and professionally."
   },
   "projects": {
-    "title": "Projects",
-    "item_1": {
-      "name": "",
-      "description": "",
-      "link": ""
-    }
+  "title": "Projects",
+  "item_1": {
+    "name": "",
+    "description": "",
+    "link": ""
   },
+  "item_2": {
+    "name": "",
+    "description": "",
+    "link": ""
+  },
+  "item_3": {
+    "name": "",
+    "description": "",
+    "link": ""
+  },
+  "item_4": {
+    "name": "",
+    "description": "",
+    "link": ""
+  },
+  "item_5": {
+    "name": "",
+    "description": "",
+    "link": ""
+  },
+  "item_6": {
+    "name": "",
+    "description": "",
+    "link": ""
+  },
+  "item_7": {
+    "name": "",
+    "description": "",
+    "link": ""
+  },
+  "item_8": {
+    "name": "",
+    "description": "",
+    "link": ""
+  }
+}
+,
   "experience": {
     "title": "Experience",
     "item_1": {

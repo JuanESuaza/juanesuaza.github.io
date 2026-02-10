@@ -13,13 +13,49 @@
     "p3": "Neste semestre quero demonstrar que, com esforço, organização e vontade de aprender, posso crescer tanto no âmbito acadêmico quanto profissional."
   },
   "projects": {
-    "title": "Projetos",
-    "item_1": {
-      "name": "",
-      "description": "",
-      "link": ""
-    }
+  "title": "Projetos",
+  "item_1": {
+    "name": "",
+    "description": "",
+    "link": ""
   },
+  "item_2": {
+    "name": "",
+    "description": "",
+    "link": ""
+  },
+  "item_3": {
+    "name": "",
+    "description": "",
+    "link": ""
+  },
+  "item_4": {
+    "name": "",
+    "description": "",
+    "link": ""
+  },
+  "item_5": {
+    "name": "",
+    "description": "",
+    "link": ""
+  },
+  "item_6": {
+    "name": "",
+    "description": "",
+    "link": ""
+  },
+  "item_7": {
+    "name": "",
+    "description": "",
+    "link": ""
+  },
+  "item_8": {
+    "name": "",
+    "description": "",
+    "link": ""
+  }
+}
+,
   "experience": {
     "title": "Experiência",
     "item_1": {
