@@ -16,9 +16,17 @@ interface Props {
     videoExternal: string;
 }
 
-
-const { name, title, p1, p2, p3, photo, video, videoLinkText, videoExternal } =
-    Astro.props as Props;
+const {
+    name,
+    title,
+    p1,
+    p2,
+    p3,
+    photo,
+    video,
+    videoLinkText,
+    videoExternal
+} = Astro.props as Props;
 ---
 
 <section id={name} class="mb-10 mt-50">
@@ -52,20 +60,20 @@ const { name, title, p1, p2, p3, photo, video, videoLinkText, videoExternal } =
     <div class="aspect-video max-w-xl mx-auto mt-6">
         <iframe
             src={video}
-            title={videoTitle}
+            title={videoLinkText}
             class="w-full h-full rounded-lg"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
         ></iframe>
+
         <a
-         href={videoExternal}
+            href={videoExternal}
             target="_blank"
             rel="noopener noreferrer"
             class="inline-block mt-4 text-green-500 font-medium hover:underline text-center w-full"
-            >
-    {videoLinkText}
-</a>
-
+        >
+            {videoLinkText}
+        </a>
     </div>
 </section>
