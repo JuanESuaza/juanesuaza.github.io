@@ -11,10 +11,13 @@ interface Props {
 
     photo: string;
     video: string;
-    videoTitle: string;
+
+    videoLinkText: string;
+    videoExternal: string;
 }
 
-const { name, title, p1, p2, p3, photo, video, videoTitle } =
+
+const { name, title, p1, p2, p3, photo, video, videoLinkText, videoExternal } =
     Astro.props as Props;
 ---
 
@@ -55,5 +58,14 @@ const { name, title, p1, p2, p3, photo, video, videoTitle } =
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
         ></iframe>
+        <a
+         href={videoExternal}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-block mt-4 text-green-500 font-medium hover:underline text-center w-full"
+            >
+    {videoLinkText}
+</a>
+
     </div>
 </section>
