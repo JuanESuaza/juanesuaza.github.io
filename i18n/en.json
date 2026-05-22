@@ -25,7 +25,7 @@
 },
 "item_2": {
   "name": "Library Entity-Relationship Model",
-  "description": "",
+  "description": " Create a conceptual design (using an Entity-Relationship diagram) of the operations of a local community library. The library has books, CDs, tapes, etc., which are loaned to different users. These users have a unique account number, address, phone number, date of birth, and other information. If a borrowed item is overdue, it incurs a penalty. Some users are minors (under 18 years old), so they must have sponsors who are responsible for paying the fines (or replacing a book if it is lost).",
   "link": "https://unbosqueeduco-my.sharepoint.com/:f:/g/personal/jsuaza_unbosque_edu_co/IgBKVeV7eAmmSrBq4NkMfSH7AeQgB6pE6-AmBSXN9ZevsO0?e=X3fCoD"
 },
 "item_3": {
@@ -35,18 +35,18 @@
 },
   "item_4": {
     "name": "MER-ER Exercises",
-    "description": "",
+    "description": "1. The aim is to address the environmental problems of toxic and hazardous waste, the improper management of which causes significant damage to the environment and human health. The information to be considered encompasses all stages of waste generation, from the moment the waste is produced by a facility or company until it reaches a secure location, where it receives specialized treatment such as incineration, secure storage, etc. The information system should include data on waste producers, the waste itself, the companies that transport the waste to secure locations, and the waste transfer process, taking into account the type of transport, packaging, etc.\n2. Earn Go, an international fast-food company, intends to establish a franchise in our area and needs to computerize its business management, adapting it to the specific characteristics of its expected clientele. This company sells pizzas and sandwiches, as well as complementary products such as soft drinks, ice cream, etc.",
     "link": "https://unbosqueeduco-my.sharepoint.com/:f:/g/personal/jsuaza_unbosque_edu_co/IgCxHzHL1K7EQIXGiq2qM-VdAZPPcmhJ-A0bZ5wz0wtaUe4?e=q4eSRM"
   },
   "item_5": {
-    "name": "",
-    "description": "",
-    "link": ""
+    "name": "Integrated Case Study, El Bosque Shop",
+    "description": "El Bosque Shop is an e-commerce platform focused on products for outdoor living and responsible consumption: clothing, camping equipment, accessories, eco-friendly personal care, packaged foods, and seasonal items. The company operates with two shipping models: In-house shipping, from distribution centers managed by El Bosque Shop; and partner shipping, where external brands/sellers list products on El Bosque Shop but ship from their own facilities. El Bosque Shop sells to: Individual customers (personal purchases) and corporate customers (corporate purchases with credit, internal approvals, and negotiated terms). Operations include: a catalog with variations, kits, technical specifications, inventory control by location, batching for perishable goods, regional taxes, multiple shipments per purchase, partial payments, reconciliation, chargebacks, after-sales service (returns/warranty/errors), customer service, loyalty programs with points, and coupon campaigns. Additionally, critical change tracking (auditing) and metrics for business and logistics analytics are required. You are asked to build the extended entity-relationship model (EREM) that accurately represents the business rules and allows the system to evolve during the semester: from catalog publication and purchase, to shipping, payment, returns, and customer loyalty.",
+    "link": "https://drive.google.com/file/d/1n0KUsF-P7YeSn3PlNEnPnecMFY2kuSXQ/view?usp=sharing"
   },
   "item_6": {
-    "name": "",
-    "description": "",
-    "link": ""
+    "name": "Cinelog",
+    "description": "CineLog emerged as a response to this problem: a platform for managing and rating audiovisual content that allows users to register movies and series, rate them, create custom lists with a defined order, and write alternative endings. From a database perspective, this domain represents a scenario rich in interrelated entities, N:M relationships, weak entities, and associative entities, making it an ideal case study for demonstrating mastery of fundamental relational modeling concepts.",
+    "link": "https://github.com/JuanESuaza/CineLog-BD1"
   },
   "item_7": {
     "name": "",

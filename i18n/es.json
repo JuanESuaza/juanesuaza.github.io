@@ -25,7 +25,7 @@
   },
   "item_2": {
     "name": "Modelo entidad relación biblioteca",
-    "description": "",
+    "description": "Realizar el diseño conceptual (mediante un diagrama E-R) de las operaciones de unabiblioteca comunitaria local. La biblioteca tiene libros, CD, cintas, etc., que se prestan a diferentes usuarios. Estos últimos cuentan con un número de cuenta único, direcciones, números telefónicos, fecha de nacimiento, entre otros. Si un artículo prestado está vencido (por fuera de la fecha límite de entrega), acumula penalización. Algunos usuarios son menores de edad (menores a 18 años), por lo que deben tener patrocinadores que sean responsables de pagar las multas (o reemplazar un libro en caso de pérdida).",
     "link": "https://unbosqueeduco-my.sharepoint.com/:f:/g/personal/jsuaza_unbosque_edu_co/IgBKVeV7eAmmSrBq4NkMfSH7AeQgB6pE6-AmBSXN9ZevsO0?e=X3fCoD"
   },
   "item_3": {
@@ -35,18 +35,18 @@
   },
   "item_4": {
     "name": "Taller MER-ER",
-    "description": "",
+    "description": "1. Se desea abordar la problemática ambiental de los residuos túxicos y peligrosos cuya incorrecta gestión produce daños de gran importancia en el medio ambiente y en la salud del ser humano. La información a contemplar es la que corresponde desde que es producido el residuo por un centro o empresa productora hasta que éste se encuentra en iugar seguro, en donde recibe un tratamiento especial como puede ser la incineración, almacenamiento en depósitos de seguridad, etc. En el sistema de información se desea considerar la información de los productores de residuos, los residuos, las empresas que transportan los residuos hasta los lugares seguros y el traslado de los residuos teniendo en cuenta el tipo de transporte, el envase, etc.\n2. Earn Go, una empresa internacional dedicada a la comercialización de comidas rápidas, tiene la intención de ubicar una franquicia en nuestra localidad, siéndole necesario informatizar la gestión del negocio adaptándoio a las características propias de la clientela esperada. Esta empresa se dedica a la venta de pizzas y bocadillos, además de productos complementarios como refrescos, helados, etc.",
     "link": "https://unbosqueeduco-my.sharepoint.com/:f:/g/personal/jsuaza_unbosque_edu_co/IgCxHzHL1K7EQIXGiq2qM-VdAZPPcmhJ-A0bZ5wz0wtaUe4?e=q4eSRM"
   },
   "item_5": {
-    "name": "",
-    "description": "",
-    "link": ""
+    "name": "Caso Integrador El Bosque Shop",
+    "description": "El Bosque Shop es una plataforma de comercio electrónico orientada a productos para vida al aire libre y consumo responsable: indumentaria, equipos de camping, accesorios, cuidado personal ecológico, alimentos empacados y artículos de temporada. La empresa opera con dos esquemas de despacho: Despacho propio, desde centros de distribución administrados por El Bosque Shop. Despacho de aliados, donde marcas/vendedores externos publican productos en el Bosque Shop pero despachan desde sus propios centros. El Bosque Shop vende a: Clientes persona (compras individuales). Clientes empresa (compras corporativas con crédito, aprobaciones internas y condiciones negociadas). La operación contempla: catálogo con variantes, kits, atributos técnicos, control de inventario por centro, lotes para perecederos, impuestos por región, múltiples envíos por compra, pagos parciales, conciliación, contracargos, postventa (retracto/garantía/error), atención PQR, fidelización con puntos y campañas con cupones. Además, se requiere trazabilidad de cambios críticos (auditoría) y mediciones para analítica comercial y logística. Se solicita construir el modelo entidad relación extendido MERE que represente fielmente las reglas del negocio y permita evolucionar el sistema durante el semestre: desde la publicación del catálogo y la compra, hasta el despacho, pago, devoluciones y fidelización.",
+    "link": "https://drive.google.com/file/d/1n0KUsF-P7YeSn3PlNEnPnecMFY2kuSXQ/view?usp=sharing"
   },
   "item_6": {
-    "name": "",
-    "description": "",
-    "link": ""
+    "name": "Cinelog",
+    "description": "CineLog surge como respuesta a esta problemática: una plataforma de gestión y calificación de contenidos audiovisuales que permite a los usuarios registrar películas y series, calificarlas, crear listas personalizadas con orden definido, y escribir finales alternativos. Desde la perspectiva de las bases de datos, este dominio representa un escenario rico en entidades interrelacionadas, relaciones N:M, entidades débiles y entidades asociativas, lo que lo convierte en un caso de estudio ideal para demostrar el dominio de los conceptos fundamentales del modelado relacional.",
+    "link": "https://github.com/JuanESuaza/CineLog-BD1"
   },
   "item_7": {
     "name": "",
